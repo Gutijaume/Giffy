@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App-content {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +22,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 56px;
+ 
 }
 
 .App-link {
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button{
+  font-size: 46px;
+}
+
+a{
+  font-size: 48px;
+  color: #61dafb
 }
